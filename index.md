@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Xueyao Zheng
 email:
   url: mailto:woden@cs.cmu.edu
   text: woden@cs.cmu.edu
